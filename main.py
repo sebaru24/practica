@@ -6,4 +6,6 @@ altura = float(input("Ingresa tu altura: "))
 
 imc = peso/(altura*altura)
 
-print (imc)
+
+print (f"tu indice de masa corporal es: {imc}")
+
